@@ -1,0 +1,31 @@
+@media (max-width: 700px) {
+    .left {
+        float: none;
+        width: 600px;
+        display: inline-block;
+        border-radius: 4px;
+    }
+    .right {
+        float: none;
+        width: 600px;
+        margin: 20px 0px;
+        display: inline-block;
+        border-radius: 4px;
+    }
+    h1, h2 {
+        text-align: center;
+    }
+    p {
+        padding: 0px 10px;
+        text-indent: 14px;
+    }
+    footer {
+        width: 600px;
+        border: black 2px solid;
+        border-radius: 4px;
+    }
+    .right p {
+        text-indent: -14px;
+        padding-left: 28px;
+    }
+}

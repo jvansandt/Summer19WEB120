@@ -1,0 +1,13 @@
+/* Styles for main body of BIG pages */
+.left {
+    float: left;
+    border: 2px solid black;
+    display: inline;
+    width: 48%;
+}
+.right {
+    float: right;
+    border: 2px solid green;
+    display: inline;
+    width: 48%;
+}
